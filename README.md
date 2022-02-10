@@ -1,5 +1,4 @@
 # Alice_in_Wonderland_Book_and_audioBook
-Alice in Wonderland is a classic published in 1865. It tells the story of a girl named Alice, who falls down a rabbit hole and plunges into a fantastic place full of peculiar creatures.
 
 This audio reading of Alice’s Adventures in Wonderland is read by
 
